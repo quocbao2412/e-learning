@@ -11,7 +11,6 @@ import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
 import Appbar from "../../components/Navigation/Appbar/Appbar";
 import SideDrawer from "../../components/Navigation/SideDrawer/SideDrawer";
 
-// import theme from "../../components/UI/Theme";
 
 const UserLayout = (props) => {
   const { sideOpen, sideDraw, darkTheme } = props;
